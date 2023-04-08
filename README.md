@@ -2,7 +2,7 @@
 
 ## 终端常用命令
     
-    'sudo apt-get install' 
+    ' sudo apt-get install ' 
     安装
     'll' 显示所在位置文件
 
